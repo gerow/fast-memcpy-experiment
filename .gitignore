@@ -1,0 +1,6 @@
+memcpy_asm
+memcpy_orig
+memcpy_dumb
+memcpy_asm_o3
+memcpy_orig_o3
+memcpy_dumb_o3
