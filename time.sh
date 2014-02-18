@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 echo "timing memcpy_orig"
 time ./memcpy_orig
